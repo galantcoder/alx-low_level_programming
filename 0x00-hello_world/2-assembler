@@ -1,0 +1,2 @@
+#!/bin/ba
+shgcc -S $CFILE
