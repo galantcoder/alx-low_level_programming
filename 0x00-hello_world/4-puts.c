@@ -1,8 +1,3 @@
-/*
- *  File: 4-puts.c
- *  Author: Ifeanyi Moghalu
-*/
-
 #include <stdio.h>
 
 /*
