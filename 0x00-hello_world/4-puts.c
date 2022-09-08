@@ -2,7 +2,10 @@
 
 /**
  * main - Entry point
- * output - Prints Programming is like building a multilingual puzzle, followed by a new line
+ * 
+ * Description: Prints Programming is like building a 
+ * multilingual puzzle, followed by a new line.
+ *
  * Ruturn: Always 0
  */
 int main(void)
