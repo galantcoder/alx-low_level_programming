@@ -9,6 +9,6 @@
 
 int main(void)
 {
-	prinf("With proper grammer, but the outcome is a poece of art/n")
+	printf("With proper grammer, but the outcome is a poece of art/n");
 	return (0);
 }
